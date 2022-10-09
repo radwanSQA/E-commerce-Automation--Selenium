@@ -1,4 +1,12 @@
-### Start
+### Automation Pages Cover
+- login page
+- Registration page
+- Choose product from menu
+- Select product
+- Apply Add to cart
+- Complete Add steps for checkout 
+ 
+### Project Details
 - Create a maven project
   - File -> New -> Maven project -> Set workspace -> maven quick start -> add group id and artifact id
 - Right Click on project(build path)
