@@ -7,6 +7,7 @@
         <methods>
           <include name="close"/>
           <include name="start"/>
+          <include name="afterClass"/>
           <include name="startUrl"/>
           <include name="createAnAccount"/>
         </methods>
